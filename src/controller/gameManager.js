@@ -2,6 +2,7 @@ const e = require('express');
 const { readData, writeData } = require('./jsonManager');
 
 function existsGame(id) {
+    console.log(id);
     const data = readData();
     const gameData = data.juegos.find(juegos => juegos.id == id);
     if (!gameData) {
@@ -21,8 +22,6 @@ function getGame(id) {
 
   // Busca el juego con la ID proporcionada en los datos
   const gameData = data.juegos.find(juegos => juegos.id == id);
-
-    console.log(gameData);
 
   // Si no se encuentra el juego, retorna null
   if (!gameData) {

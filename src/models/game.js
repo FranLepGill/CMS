@@ -11,7 +11,7 @@ class GameModel {
     // Método para guardar el juego en la base de datos
     save() {
 
-        if (existsGame(this.id)) {
+        if (false) {
             console.log(`El juego ${this.titulo} ya existe en la base de datos.`);
         }else{
 

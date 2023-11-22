@@ -2,6 +2,13 @@ const fs = require('fs');
 
 const dataFilePath = '../BD.json';
 
+function crearBD() {
+  if (!fs.existsSync(dataFilePath)) {
+    const jsonData = JSON.stringify('', null, 2);
+    fs.writeFileSync('BD.json', jsonData);
+  }
+}
+
 // Función para leer datos desde el archivo JSON
 function readData() {
   try {
@@ -21,5 +28,6 @@ function writeData(data) {
 
 module.exports = {
   readData,
-  writeData
+  writeData,
+  crearBD
 };

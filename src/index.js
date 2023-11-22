@@ -1,6 +1,8 @@
 const express = require('express');
 const app = express();
 const morgan = require('morgan');
+const fs = require('fs');
+const {crearBD} = require('./controller/jsonManager');
 
 const port = process.env.PORT || 3000;
 
