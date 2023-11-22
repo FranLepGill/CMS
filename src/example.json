@@ -1,0 +1,37 @@
+[
+    {
+        "id": "7",
+        "titulo": "Assassin's Creed",
+        "descripcion": "Assassin's Creed es una serie de videojuegos de acción-aventura creada por Patrice Désilets, Jade Raymond y Corey May, desarrollada y publicada por Ubisoft. La trama principal de la serie sigue la lucha entre los Asesinos, que son defensores de la libertad, y los Templarios, que buscan el control y la dominación. Los juegos se desarrollan en diferentes períodos históricos y lugares, y los jugadores asumen el papel de un Asesino que debe completar diversas misiones y objetivos."
+    },
+    {
+        "id": "1",
+        "titulo": "Dark Souls",
+        "descripcion": "Dark Souls es un videojuego de rol de acción, desarrollado por la empresa From Software para las plataformas PlayStation 3, Xbox 360 y Microsoft Windows. El juego fue publicado en Japón por From Software en septiembre de 2011, en Norteamérica por Namco Bandai Games en octubre de 2011 y en Europa y Australia por Namco Bandai Games y Bandai Namco Partners en octubre de 2011. El juego es la secuela espiritual de Demon's Souls, también desarrollado por From Software y publicado por Sony Computer Entertainment en 2009. Dark Souls fue catalogado por la crítica como uno de los mejores videojuegos de la séptima generación de consolas y uno de los mejores videojuegos de todos los tiempos."
+    },
+    {
+        "id": "2",
+        "titulo": "call of duty",
+        "descripcion": "Call of Duty es una serie de videojuegos de disparos en primera persona, de estilo bélico, creada por Ben Chichoski, desarrollada principal e inicialmente por Infinity Ward, y distribuida por Activision. La franquicia comenzó en Microsoft Windows, posteriormente se ha expandido a videoconsolas y dispositivos portátiles. Incluye títulos de guerra ambientados en la Segunda Guerra Mundial, la Guerra Fría, escenarios históricos, ficticios y futuristas (Guerra moderna y Guerra futura)."
+    },
+    {
+        "id": "3",
+        "titulo": "The Legend of Zelda",
+        "descripcion": "The Legend of Zelda es una serie de videojuegos de acción-aventura creada por los diseñadores de videojuegos Shigeru Miyamoto y Takashi Tezuka y desarrollada por Nintendo, empresa que también se encarga de su distribución internacional. La jugabilidad se centra en la acción-aventura en un mundo abierto, donde el jugador debe encontrar objetos, resolver puzles y derrotar enemigos. La serie es muy reconocida por su estilo de juego, descrito como una mezcla entre acción, aventura y exploración con elementos de RPG, además de su estilo de narrativa no lineal."
+    },
+    {
+        "id": "4",
+        "titulo": "Super Mario Bros",
+        "descripcion": "Super Mario Bros. es un videojuego de plataformas, diseñado por Shigeru Miyamoto, lanzado el 13 de septiembre de 1985 y producido por la compañía Nintendo, para la consola Nintendo Entertainment System. Ha supuesto el inicio de la saga de Mario, y es el juego que ha vendido más unidades en toda la historia de los videojuegos, con más de 40 millones de copias. Fue el juego más vendido de la NES, con 40,23 millones de copias, y el segundo juego más vendido de toda la historia, solo por detrás de Wii Sports. Además, fue el primer juego de la saga Mario, y el primero de los juegos de plataformas de desplazamiento lateral, seguido por Super Mario Bros. 2 y Super Mario Bros. 3."
+    },
+    {
+        "id": "5",
+        "titulo": "Grand Theft Auto",
+        "descripcion": "Grand Theft Auto (abreviado como GTA) es una serie de videojuegos de acción-aventura creada por David Jones y Mike Dailly; luego por los hermanos Dan y Sam Houser, Leslie Benzies y Aaron Garbut. Originalmente fue desarrollada por DMA Design, que posteriormente pasó a llamarse Rockstar North, de la empresa Rockstar Games. El nombre de la serie es una referencia al término utilizado en Estados Unidos para el robo de automóviles,​ aunque la mayoría de los juegos de la saga tratan sobre el crimen organizado en el contexto de la delincuencia."
+    },
+    {
+        "id": "6",
+        "titulo": "Minecraft",
+        "descripcion": "Minecraft es un videojuego de construcción, de tipo «mundo abierto» o sandbox creado originalmente por el sueco Markus Persson (conocido comúnmente como Notch),​ y posteriormente desarrollado por su empresa, Mojang AB. Fue lanzado públicamente el 17 de mayo de 2009, después de diversos cambios fue lanzada su versión completa el 18 de noviembre de 2011. El 15 de septiembre de 2014, Microsoft anunció la compra de Mojang y de sus derechos de autor por 2500 millones de dólares."
+    }
+]
